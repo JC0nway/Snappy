@@ -1,5 +1,3 @@
-SnapCracker by altoid
-
 sudo apt-get install git
 
 sudo apt-get update
@@ -15,5 +13,3 @@ sudo apt-get install python2
 chmod +x SnapHack.sh
 
 sudo bash SnapHack.sh
-
-
